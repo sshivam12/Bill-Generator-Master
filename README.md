@@ -1,3 +1,3 @@
 # Bill-Generator
 #### GUI to generate bills on shops.
-![Image](https://github.com/vinaysomawat/Bill-Generator/blob/master/image.png)
+![Image](C:\Users\Asus\Downloads\Bill-Generator-master\Bill-Generator-master)
